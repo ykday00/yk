@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: yk
+    name: yk yt
     env: python
     region: Oregon
     plan: free
